@@ -1,0 +1,33 @@
+body {
+	font-family: Helvetica;
+}
+
+/* Banner */
+.banner {
+	background-image: url("../images/pattern.jpeg");
+} .banner h1 {
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+}
+/* Banner */
+
+/* Products */
+.products .item h2 {
+	font-size: 32px;
+	font-weight: bold;
+	color: #ffffff;
+} .products .item h2#brushes {
+	background-color: mediumspringgreen;
+} .products .item h2#frames {
+	background-color: lightcoral;
+} .products .item h2#paint {
+	background-color: skyblue;
+}
+
+.products .item span.price {
+	font-weight: bold;
+	color: blue;
+}
+/* Products */
